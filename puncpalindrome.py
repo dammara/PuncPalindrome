@@ -34,6 +34,7 @@ def p_check(string):
 
 def welcome():
     print("""
+    --------PALINDROME CHECK VERSION 2.1--------
     Welcome. Please enter a word or sentence and 
     we'll check if it is a Palindrome or not.""")
     usrstring = str(input(">>>"))
